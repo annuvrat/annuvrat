@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annuvrat</h1>
-<h3 align="center">A passionate frontend developer and backend developer who likes to create REST APIs</h3>
+<h3 align="center">A passionate frontend developer and backend developer 
+</h3>
 
 - 🔭 I’m currently working on **Employee leave management system**
 
