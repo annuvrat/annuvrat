@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **annuvrat1098@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/annuvrat-sharma-36312a24a/</h3>
 <p align="left">
 </p>
 
