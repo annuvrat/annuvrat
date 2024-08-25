@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/tusharsaini1508/Python_/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+ANNUVRAT+SHARMA....;Nice+to+meet+you!&center=true&size=30">
@@ -20,9 +22,10 @@
 - 💬 Ask me about **Django REST, python, frontend , backend**
 
 - 📫 How to reach me **annuvrat1098@gmail.com**
-
-<h3 align="left">Connect with me: https://www.linkedin.com/in/annuvrat-sharma-36312a24a/</h3>
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/annuvrat-sharma-36312a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annuvrat-sharma-36312a24a/" height="30" width="40" /></a>
 </p>
 
 ---
@@ -34,3 +37,10 @@
 ## 📊 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annuvrat&show_icons=true&locale=en" alt="annuvrat" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annuvrat&" alt="annuvrat" /></p>
