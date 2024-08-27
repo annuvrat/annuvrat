@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Employee leave management system**
 
-- 🌱 I’m currently learning **Express.js,Node.js**
+- 🌱 I’m currently learning **Express.js,Node.js,React.js**
 
 - 👯 I’m looking to collaborate on **backend projects related to python and javascript**
 
