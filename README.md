@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate frontend developer and backend develop
+<h3 align="center">A passionate frontend developer and backend develope
   
 </h3>
 
