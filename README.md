@@ -42,7 +42,6 @@
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=annuvrat&show_icons=true&locale=en" alt="annuvrat" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annuvrat&" alt="annuvrat" /></p>
