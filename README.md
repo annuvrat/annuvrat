@@ -37,7 +37,7 @@
 
 ---
 ## 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushi0516&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=annuvrat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
