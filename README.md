@@ -37,8 +37,8 @@
 
 ---
 ## 📊 GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ayushi0516&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
