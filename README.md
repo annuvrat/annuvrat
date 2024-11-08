@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+ANNUVRAT+SHARMA....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1> 
-
+  
 <h3 align="center">A passionate fullstack developer 
 
    
@@ -37,7 +37,9 @@
 
 ---
 ## 📊 GitHub Stats
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=annuvrat&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
