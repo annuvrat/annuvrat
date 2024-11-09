@@ -1,4 +1,5 @@
-![MasterHead](https://github.com/tusharsaini1508/Python_/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![mario](https://github.com/user-attachments/assets/a7884f51-6b68-4cc1-9a88-a7e868b01e3c)
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
