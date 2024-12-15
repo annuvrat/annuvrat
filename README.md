@@ -53,5 +53,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=annuvrat&icon=0&color=0)](https://visitcount.itsvg.in)
 
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annuvrat&theme=radical&font=Ubuntu" alt="annuvrat" width="100%" />
+
 
 
