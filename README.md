@@ -51,9 +51,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=annuvrat&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=annuvrat&icon=0&color=0)](https://visitcount.itsvg.in)
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=annuvrat&theme=tokyonight&font=Ubuntu" alt="annuvrat" width="100%" />
+
+ [![](https://visitcount.itsvg.in/api?id=annuvrat&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
