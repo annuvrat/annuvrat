@@ -38,7 +38,7 @@
 <h3 align="left"> Languages and Tools:</h3>
 
  
- [![Backend](https://skillicons.dev/icons?i=nodejs,django,java,express,mongo,postgres,mysql,firebase)](https://github.com/annuvrat) 
+ [![Backend](https://skillicons.dev/icons?i=nodejs,django,flask,java,express,mongo,postgres,mysql,firebase)](https://github.com/annuvrat) 
  [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,azure,vite,vercel,npm)](https://github.com/annuvrat)
  [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,js,react,redux,c,cpp,python)](https://github.com/annuvrat) 
    
