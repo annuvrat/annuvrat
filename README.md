@@ -42,7 +42,7 @@
  [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,azure,vite,vercel,npm)](https://github.com/annuvrat)
  [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,js,react,redux,c,cpp,python)](https://github.com/annuvrat) 
    
-
+ 
 ---
 ## 📊 GitHub Stats
 
