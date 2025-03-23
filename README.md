@@ -16,7 +16,7 @@
 
 
 
-- 🔭 I’m currently working on **Employee leave management system**
+- 🔭 I’m currently working on **My Self**
 
 - 🌱 I’m currently learning **python**
 
