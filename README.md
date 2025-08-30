@@ -39,7 +39,7 @@
 
  
  [![Backend](https://skillicons.dev/icons?i=nodejs,django,flask,java,express,mongo,postgres,mysql,firebase,supabase,redis,oracle)](https://github.com/annuvrat) 
- [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,bun,aws,azure,docker,vite,vercel,npm)](https://github.com/annuvrat)
+ [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,babel,bun,aws,azure,gcp,docker,vite,vercel,npm)](https://github.com/annuvrat)
  [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,mui,tailwind,js,prisma,react,redux,c,cpp,python)](https://github.com/annuvrat) 
    
  
