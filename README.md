@@ -1,7 +1,8 @@
 ![mario](https://github.com/user-attachments/assets/a7884f51-6b68-4cc1-9a88-a7e868b01e3c)
 
 
-<h1 align="center">
+<h1 align="center"> 
+  
   <a href="https://git.io/typing-svg"> 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+ANNUVRAT+SHARMA....;Nice+to+meet+you!&center=true&size=30"> 
     
