@@ -23,14 +23,10 @@
 
 
 - 🔭 I’m currently working on **My Self**
-
-- 🌱 I’m currently learning **python**
-
-- 👯 I’m looking to collaborate on **backend projects related to python and javascript**
-
-- 🤝 I’m looking for help with **deployment of the api with database connection**
-
-- 💬 Ask me about **Django REST, python, frontend , backend**
+- 
+- 👯 I’m looking to collaborate on **backend projects related to python ,golang and javascript**
+- 
+- 💬 Ask me about **Distributed Systems**
 
 - 📫 How to reach me **annuvrat1098@gmail.com**
   
